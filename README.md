@@ -1,4 +1,4 @@
-# Hi there 👋
+![profile banner](Frame 2.jpg)
 
 ## Who am I? 
 I would describe myself as a creative that loves creating things 🎨. An energetic person who is eager to show off her skills and be a team player💫
