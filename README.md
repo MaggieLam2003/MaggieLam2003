@@ -7,7 +7,6 @@ I would describe myself as a creative that loves creating things 🎨. An energe
 
 ## Overview of academic Journey
 
-
 #### Design projects 
 1. Spotify case study
 
@@ -18,24 +17,22 @@ I would describe myself as a creative that loves creating things 🎨. An energe
 
 #### Frontend Development 
 1. About me website
-2. Apple festival
-3. Form submission 
-4. Cat adoption website
-5. Ted x Cornell
+2. [Apple Festival Website](https://github.com/MaggieLam2003/Apple-Festival-Website)
+3. Form Submission POST example website
+4. [Cat Adoption Website](https://github.com/MaggieLam2003/Cats-Adoption-Website)
+5. [TedxCornell](https://github.com/MaggieLam2003/tedXCornell-Website)
 
 #### IOS front end development 
-1. Gratitude journey- hack challenge 
+1. [Gratitude journey | SwiftUI](https://github.com/MaggieLam2003/SWIFTUI-gratitude-journal-app)
 
 #### Data science
-1. Global Happiness Factor 
-
-**Link: resume**
+1. [Global Happiness Factor](https://github.com/MaggieLam2003/Global-Happiness-Factors)
 
 ## What am I working on now? 
-A portfolio website is in the works 🛠️
+A portfolio website is in the works. . . 🛠️
 
 #### Here is a quick sneak peak 
-1. Image
+![Portfolio Home Screen](portfolio-sneakpeak.png)
 
 ## How to reach me 
 Email: <ml2568@cornell.edu>
@@ -45,9 +42,10 @@ Instagram: [Click Here!](https://www.instagram.com/_maggie.lam/?hl=en)
 LinkedIn: [Click Here!](https://www.linkedin.com/in/maggie-lam-368150247/)
 
 ## What I am currently learning
-
+1. Vue.js and Bootstrapiing
+2. UX design in the telecommunication
+3. Computing for Sustainability
 
 ## Fun Facts
 I have 2 cats, Pluto 🌑 and Comet ☄, that I take care of :)
-
-
+![cats](cats.jpg)
