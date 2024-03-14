@@ -10,8 +10,10 @@ I would describe myself as a creative that loves creating things 🎨. An energe
 
 #### Design projects 
 1. Spotify case study
+
    a. [Medium Casestudy Link](https://medium.com/@ml2568/10c5e9f2eeb6#05c6-dfa9ee89282f)
 3. CornYelp - hack challenge
+
    a. [Figma CornYelp Design](https://www.figma.com/file/FM3WnP3IRN6QCdUKiXI0Fy/CornYelp---Hack-Challenge-App?type=design&node-id=0%3A1&mode=design&t=lim5EOd0z4riWJCl-1)
 
 #### Frontend Development 
