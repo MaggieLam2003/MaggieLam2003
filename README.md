@@ -11,6 +11,7 @@ I would describe myself as a creative that loves arts and crafts 🎨. An energe
 1. Spotify case study
 
    a. [Medium Casestudy Link](https://medium.com/@ml2568/10c5e9f2eeb6#05c6-dfa9ee89282f)
+   b. [Link to Figma](https://www.figma.com/file/1oofRdHm98AIT94p92vl3k/ml2568---Spotify?type=design&node-id=101%3A3&mode=design&t=wedgRS54QxP9Z4tc-1)
 3. CornYelp - hack challenge
 
    a. [Figma CornYelp Design](https://www.figma.com/file/FM3WnP3IRN6QCdUKiXI0Fy/CornYelp---Hack-Challenge-App?type=design&node-id=0%3A1&mode=design&t=lim5EOd0z4riWJCl-1)
