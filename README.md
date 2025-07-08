@@ -10,7 +10,7 @@ I would describe myself as a creative that loves arts and crafts 🎨. An energe
 #### Design projects 
 1. Spotify case study
 
-   a. [Medium Casestudy Link](https://medium.com/@ml2568/10c5e9f2eeb6#05c6-dfa9ee89282f)
+   a. [Medium Casestudy Link]([https://medium.com/@ml2568/10c5e9f2eeb6#05c6-dfa9ee89282f](https://medium.com/@ml2568/reinventing-spotify-building-friendships-through-music-10c5e9f2eeb6))
    
    b. [Link to Figma](https://www.figma.com/file/1oofRdHm98AIT94p92vl3k/ml2568---Spotify?type=design&node-id=101%3A3&mode=design&t=wedgRS54QxP9Z4tc-1)
 2. Lee's International Super Market Website Figma
